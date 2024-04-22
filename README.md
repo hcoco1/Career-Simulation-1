@@ -16,9 +16,9 @@ Welcome to the **Career Simulation 1 Runbook**. This document is designed to gui
 
 - [Onboarding](stages/anboarding.md)
 - [Introduction](stages/introduction.md)
-- [Step 1: Establish SSH Connection](stages/stage1.md)
-- [Step 2: Locate the Misconfigured File](stages/stage2.md)
-- [Step 3: Verify File Permissions](stages/stage3.md)
+- [Stage:  Identification](stages/stage1.md)
+- [Stage: Analysis](stages/stage2.md)
+- [Stage:  Preservation](stages/stage3.md)
 - [Summary](stages/summary.md)
 
 ---
