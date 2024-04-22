@@ -1,3 +1,7 @@
+##### Navigation
+
+[Back to Home 🏠](../README.md) | [Back to Introduction ](introduction.md)  |  [Next: Stage: Analysis](stage2.md)
+
 ## Stage Identification
 
 The first step in a digital forensics investigation is to identify the devices and resources containing the data that will be a part of the investigation (Gonzalez, 2022).
@@ -28,3 +32,7 @@ fstack@:/opt/splunk/etc/system/local$ md5sum config.conf
 ad1f9b6cbcee6cd3efa6438149db5c1c  config.conf
 ```
 <small>**Fig.3** Command to hash the `config.conf` file (md5sum)</small>
+
+##### Navigation
+
+[Back to Home 🏠](../README.md) | [Back to Introduction ](introduction.md)  |  [Next: Stage: Analysis](stage2.md)

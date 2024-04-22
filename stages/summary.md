@@ -1,3 +1,7 @@
+##### Navigation
+
+[Back to Home 🏠](../README.md) | [Back to Stage: Preservation](stage3.md)
+
 ## Conclusion
 
  >The issue with accessing logs within the Splunk server was resolved through collaborative efforts and systematic >troubleshooting. The modifications made to the config.conf file restored functionality to the logging system, aligning with >the objectives of the digital forensics investigation stages. 
@@ -37,4 +41,6 @@ To enhance the integrity, availability, and confidentiality of the config.conf f
 
 - Encrypt Configuration Files: Encrypt the config.conf file to protect sensitive information stored within it. Encryption ensures that even if unauthorized individuals gain access to the file, they cannot decipher its contents without the proper decryption key. This helps safeguard confidential data and maintains the confidentiality of the configuration settings.
 
----
+##### Navigation
+
+[Back to Home 🏠](../README.md) | [Back to Stage: Preservation](stage3.md)

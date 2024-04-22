@@ -1,3 +1,7 @@
+##### Navigation
+
+[Back to Home 🏠](../README.md) | [Back to Stage: Identification ](stage1.md)  |  [Next: Stage: Preservation](stage3.md)
+
 ## Stage  Analysis
 
 Once the devices involved have been identified and isolated, and the data has been duplicated and stored securely, digital forensic investigators use various techniques to extract relevant data and examine it, searching for clues or evidence that points to wrongdoing (Gonzalez, 2022).
@@ -37,3 +41,7 @@ fstack@:/opt/splunk/etc/system/local$ md5sum config.conf
 46dfaf406b12c9d1ca9b293660c2939b  config.conf
 ```
 <small>**Fig.5** Command to hash the `config.conf` file (md5sum)</small>
+
+##### Navigation
+
+[Back to Home 🏠](../README.md) | [Back to Stage: Identification ](stage1.md)  |  [Next: Stage: Preservation](stage3.md)
