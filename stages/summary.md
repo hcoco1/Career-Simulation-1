@@ -41,6 +41,26 @@ To enhance the integrity, availability, and confidentiality of the config.conf f
 
 - Encrypt Configuration Files: Encrypt the config.conf file to protect sensitive information stored within it. Encryption ensures that even if unauthorized individuals gain access to the file, they cannot decipher its contents without the proper decryption key. This helps safeguard confidential data and maintains the confidentiality of the configuration settings.
 
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://hcoco1-1.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
 ##### Navigation
 
 [Back to Home 🏠](../README.md) | [Back to Stage: Preservation](stage3.md)
